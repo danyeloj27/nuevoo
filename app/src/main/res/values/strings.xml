@@ -1,0 +1,22 @@
+<resources>
+    <string name="app_name">EVx</string>
+    <string name="title_activity_menu">MenuActivity</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Ecotrans Chile</string>
+    <string name="nav_header_subtitle">Ecotrans@Ecotranschile.cl</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_settings">Salir</string>
+
+    <string name="menu_home">EVx</string>
+    <string name="menu_gallery">Servicios</string>
+    <string name="menu_slideshow">Historial</string>
+    <string name="menu_tools">Configuracion</string>
+    <string name="menu_share">Acerca de</string>
+    <string name="menu_send">Send</string>
+
+    <string name="nombre_zona">Nombre Zona</string>
+    <string name="km">Km</string>
+
+    <string name="home_second">Home Second</string>
+</resources>
