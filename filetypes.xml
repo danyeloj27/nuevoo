@@ -3,6 +3,7 @@
     <extensionMap>
       <mapping ext="webp" type="Image" />
       <mapping pattern="puntos" type="PLAIN_TEXT" />
+      <mapping pattern="puntos-journal" type="SQL" />
     </extensionMap>
   </component>
 </application>
